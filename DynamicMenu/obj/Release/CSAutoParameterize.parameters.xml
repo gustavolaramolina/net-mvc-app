@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="tmgtdbEntities-Web.config Connection String" description="tmgtdbEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=tmgt-s1.database.windows.net;initial catalog=tmgtdb;persist security info=True;user id=user-admin;password=Power.001;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\DevApps\\Dynamic-Menu-ASP-MVC\\DynamicMenu\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='tmgtdbEntities']/@connectionString" />
+  </parameter>
+</parameters>

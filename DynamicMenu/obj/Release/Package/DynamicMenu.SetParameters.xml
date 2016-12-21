@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/DynamicMenu_deploy" />
+  <setParameter name="tmgtdbEntities-Web.config Connection String" value="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=tmgt-s1.database.windows.net;initial catalog=tmgtdb;persist security info=True;user id=user-admin;password=Power.001;MultipleActiveResultSets=True;App=EntityFramework&quot;" />
+</parameters>
